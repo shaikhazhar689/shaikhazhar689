@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/shaikhazhar689/shaikhazhar689/blob/main/banner_1.PNG)
 <h1 align="center">Hi 👋, I'm Azhar Shaikh</h1>
 <h3 align="center">Bridging Data and Decisions: A Journey in Analytics</h3>
 
