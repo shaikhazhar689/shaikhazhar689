@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Azhar Shaik</h1>
 <h3 align="center">Bridging Data and Decisions: A Journey in Analytics</h3>
 
-<img align="right" alt="dataanalytix" width="400" src="https://giphy.com/gifs/mckinsey-data-driven-rich-mckinseyonai-pQf2HkX62dpnc7uYdv">
-
+<img align="right" alt="dataanalytix" width="400" src="![DataAnalytics](https://github.com/shaikhazhar689/shaikhazhar689/assets/134381942/538458ac-2d71-4fb9-b171-733c70320912)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhazhar689&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhazhar689" /> </p>
 
 <p align="left"> <a href="https://twitter.com/azharpatil" target="blank"><img src="https://img.shields.io/twitter/follow/azharpatil?logo=twitter&style=for-the-badge" alt="azharpatil" /></a> </p>
