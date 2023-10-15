@@ -2,9 +2,8 @@
 <h3 align="center">Bridging Data and Decisions: A Journey in Analytics</h3>
 
 <img align="right" alt="dataanalytix" width="400" src="https://www.analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhazhar689&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhazhar689" /> </p>
 
-<p align="left"> <a href="https://twitter.com/azharpatil" target="blank"><img src="https://img.shields.io/twitter/follow/azharpatil?logo=twitter&style=for-the-badge" alt="azharpatil" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhazhar689&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhazhar689" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://shaikhazhar689.github.io/AzharAnalytixLab.github.io/](https://shaikhazhar689.github.io/AzharAnalytixLab.github.io/)
 
@@ -17,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/azhar shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azhar shaikh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/azhar shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="azhar shaikh" height="30" width="40" /></a>
 <a href="https://instagram.com/azhar_shkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azhar_shkk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/azhar shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="azhar shaikh" height="30" width="40" /></a>
 </p>
